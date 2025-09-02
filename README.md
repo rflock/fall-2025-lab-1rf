@@ -3,4 +3,4 @@
 
 In this project, we created an HTML project from scratch.
 
-https://rflock.github.io/fall-2025-lab-1rf/
+https://rflock.github.io/fall-2025-lab-1rf/index.html
